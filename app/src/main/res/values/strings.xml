@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreApp</string>
+    <string name="reset">Reset</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="poin6">+6 points</string>
+    <string name="poin3">+3 points</string>
+    <string name="poin2">+2 points</string>
+    <string name="poin1">+1 points</string>
+    <string name="breakquarter">Break</string>
+</resources>
